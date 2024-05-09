@@ -41,7 +41,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1-) WP SEO Assistant eklentisini indirin.<br>2-) Wordpress'e eklentiyi yükleyin.</p>
+<p>1-) WP SEO Assistant eklentisini indirin: <a href="https://www.goktugderin.com/wp-seo-assistant/" data-type="link" data-id="https://www.goktugderin.com/wp-seo-assistant/">WP SEO Assistant</a><br>2-) Wordpress'e eklentiyi yükleyin.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -70,7 +70,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Noindex Optimizasyonu: Ayarlar -> Noindex Ayarları kısmından erişebileceğiniz bu özellik ile arama motoru sonuç sayfalarındaki niteliksiz sayfalarınızdan tek tıkla toplu bir şekilde kurtulabilirsiniz. Bu sayede tarama bütçeniz iyileşir, sıralamada birbirleri ile yarışan sayfalarınız varsa, bunlar eleneceği için sıralamanızda iyileşme görülebilir. <br>-Etiket sayfaları için noindex: Google Search Console üzerinden son 3 ayda etiket sayfalarınız adına olan performansınıza bir göz atın, eğer kayda değer hit yoksa, mutlaka kapatın. <br>-Sayfalama için noindex: bu sitenizdeki .../page/2 gibi sayfalandırılmış sayfalar içindir, aktifleştirmeniz önerilir.<br>-Admin sayfası için noindex: /wp-admin/ sayfası için noindex ayarıdır, aktifleştirmeniz önerilir. <br>-Kategoriler için noindex: Kategori sayfalarınızı noindex yapmanız önerilmez. Ancak özel olarak kapatmak isteyenler için bu özellik eklendi.<br>-Ana Sayfa için noindex: Ana sayfanızı noindex yapmanız, site yeni açıldı ise önerilir, aksi takdirde kesinlikle noindex yapmamalısınız. </li>
+<li>Noindex Optimizasyonu: Ayarlar -&gt; Noindex Ayarları kısmından erişebileceğiniz bu özellik ile arama motoru sonuç sayfalarındaki niteliksiz sayfalarınızdan tek tıkla toplu bir şekilde kurtulabilirsiniz. Bu sayede tarama bütçeniz iyileşir, sıralamada birbirleri ile yarışan sayfalarınız varsa, bunlar eleneceği için sıralamanızda iyileşme görülebilir. <br>-Etiket sayfaları için noindex: Google Search Console üzerinden son 3 ayda etiket sayfalarınız adına olan performansınıza bir göz atın, eğer kayda değer hit yoksa, mutlaka kapatın. <br>-Sayfalama için noindex: bu sitenizdeki .../page/2 gibi sayfalandırılmış sayfalar içindir, aktifleştirmeniz önerilir.<br>-Admin sayfası için noindex: /wp-admin/ sayfası için noindex ayarıdır, aktifleştirmeniz önerilir. <br>-Kategoriler için noindex: Kategori sayfalarınızı noindex yapmanız önerilmez. Ancak özel olarak kapatmak isteyenler için bu özellik eklendi.<br>-Ana Sayfa için noindex: Ana sayfanızı noindex yapmanız, site yeni açıldı ise önerilir, aksi takdirde kesinlikle noindex yapmamalısınız. </li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
