@@ -7,6 +7,36 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Özellikler:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Kopya İçerik Kontrol</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Otomatik İç Linkleme</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Otomatik Görsel SEO</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Noindex Optimizasyonu (Tek tıkla niteliksiz sayfaları Google'dan ayırma)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Tek Tıkla Dofollow linkleri Nofollow Yapma</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Link Takip</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Kurulum:</h3>
 <!-- /wp:heading -->
 
@@ -40,6 +70,10 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Noindex Optimizasyonu: Ayarlar -> Noindex Ayarları kısmından erişebileceğiniz bu özellik ile arama motoru sonuç sayfalarındaki niteliksiz sayfalarınızdan tek tıkla toplu bir şekilde kurtulabilirsiniz. Bu sayede tarama bütçeniz iyileşir, sıralamada birbirleri ile yarışan sayfalarınız varsa, bunlar eleneceği için sıralamanızda iyileşme görülebilir. <br>-Etiket sayfaları için noindex: Google Search Console üzerinden son 3 ayda etiket sayfalarınız adına olan performansınıza bir göz atın, eğer kayda değer hit yoksa, mutlaka kapatın. <br>-Sayfalama için noindex: bu sitenizdeki .../page/2 gibi sayfalandırılmış sayfalar içindir, aktifleştirmeniz önerilir.<br>-Admin sayfası için noindex: /wp-admin/ sayfası için noindex ayarıdır, aktifleştirmeniz önerilir. <br>-Kategoriler için noindex: Kategori sayfalarınızı noindex yapmanız önerilmez. Ancak özel olarak kapatmak isteyenler için bu özellik eklendi.<br>-Ana  Sayfa için noindex: Ana sayfanızı noindex yapmanız, site yeni açıldı ise önerilir, aksi takdirde kesinlikle noindex yapmamalısınız. <br></li>
+<li>Noindex Optimizasyonu: Ayarlar -> Noindex Ayarları kısmından erişebileceğiniz bu özellik ile arama motoru sonuç sayfalarındaki niteliksiz sayfalarınızdan tek tıkla toplu bir şekilde kurtulabilirsiniz. Bu sayede tarama bütçeniz iyileşir, sıralamada birbirleri ile yarışan sayfalarınız varsa, bunlar eleneceği için sıralamanızda iyileşme görülebilir. <br>-Etiket sayfaları için noindex: Google Search Console üzerinden son 3 ayda etiket sayfalarınız adına olan performansınıza bir göz atın, eğer kayda değer hit yoksa, mutlaka kapatın. <br>-Sayfalama için noindex: bu sitenizdeki .../page/2 gibi sayfalandırılmış sayfalar içindir, aktifleştirmeniz önerilir.<br>-Admin sayfası için noindex: /wp-admin/ sayfası için noindex ayarıdır, aktifleştirmeniz önerilir. <br>-Kategoriler için noindex: Kategori sayfalarınızı noindex yapmanız önerilmez. Ancak özel olarak kapatmak isteyenler için bu özellik eklendi.<br>-Ana Sayfa için noindex: Ana sayfanızı noindex yapmanız, site yeni açıldı ise önerilir, aksi takdirde kesinlikle noindex yapmamalısınız. </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Görsel SEO: Eklentiyi kurduktan sonra yüklediğiniz görsellerinizde alt etiketler otomatik olarak, dosya adına göre doldurulur. Örneğin ''evasoft.png'' ise alt etiketler: ''evasoft'' şeklinde oluşur.<br></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
